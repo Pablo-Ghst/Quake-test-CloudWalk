@@ -1,7 +1,5 @@
-Task para fazer parse da qgames.log https://gist.github.com/cloudwalk-tests/be1b636e58abff14088c8b5309f575d8
+Task para parse em relatório da qgames.log https://gist.github.com/cloudwalk-tests/be1b636e58abff14088c8b5309f575d8
 
-
- Após construir o parser construa uma API que faça a exposição de um método de consulta que retorne um relatório de cada jogo.
 
 # Requisitos para Aplicação
 Node https://nodejs.org/en/  
